@@ -1,6 +1,9 @@
 Bibliografia:
 
-- Clean Code (Robert C. Martin)
-- Code Complete, Steve McConnel (obligatorio, clásico, nivel inicial)
-- Implementationon Patterns, Kent Beck (nivel intermedio)
-- Refactoring, Martin Fowler (nivel intermedio, clásico)
+- Clean Code, Robert C. Martin
+- Code Complete, Steve McConnel 
+- Implementationon Patterns, Kent Beck 
+- Refactoring, Martin Fowler
+- Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides, Grady Booch 
+- xUnit Test Patterns: Refactoring Test Code, by Gerard Meszaros
+- Working Effectively with Legacy Code, by Michael Feathers

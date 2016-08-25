@@ -1,0 +1,6 @@
+Bibliografia:
+
+- Clean Code (Robert C. Martin)
+- Code Complete, Steve McConnel (obligatorio, clásico, nivel inicial)
+- Implementationon Patterns, Kent Beck (nivel intermedio)
+- Refactoring, Martin Fowler (nivel intermedio, clásico)

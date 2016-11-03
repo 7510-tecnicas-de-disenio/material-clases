@@ -1,0 +1,4 @@
+Automated code metrics plugin for IntelliJ IDEA http://plugins.intellij.net/plugin/?id=93
+
+https://github.com/BasLeijdekkers/MetricsReloaded
+
